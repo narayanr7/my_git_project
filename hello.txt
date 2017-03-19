@@ -1,1 +1,2 @@
 Hello user first project in my_git_project directory
+So this is done after 1st commit
